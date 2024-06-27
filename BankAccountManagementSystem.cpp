@@ -120,7 +120,7 @@ void displayMenu()
     cout << "2. Deposit Money" << endl;
     cout << "3. Withdraw Money" << endl;
     cout << "4. Check Balance" << endl;
-    cout << "5. Exit" << endl;
+    cout << "5. Save and Exit" << endl;
     cout << "Enter your choice" << endl;
 }
 
